@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-25T12:45:10" hostname="DESKTOP-IOJ2JB6" time="0.015">
+  <properties/>
+  <testcase name="testCalculatorAbs()" classname="Test" time="0.013"/>
+  <testcase name="testCalculatorPow()" classname="Test" time="0.001"/>
+  <testcase name="testCalculatorPositive()" classname="Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
